@@ -32,28 +32,28 @@ public class RegressionTest extends BaseTest {
     }
     @Test
     public void Tc_03validateNavigatingToRegisterScreen(){
-//        login.checkNavigatingToRegister();
+        login.checkNavigatingToRegister();
     }
 
     @Test
-    public void Tc_05validateRequiredFields(){
+    public void Tc_04validateRequiredFields(){
         register.checkMandatoryFields();
     }
     @Test
-    public void Tc_06validateRegisterWithInvalidPasswordSchema(){
+    public void Tc_05validateRegisterWithInvalidPasswordSchema(){
         register.checkRegisterWithInvalidPassword();
     }
     @Test
-    public void Tc_07validateRegisterSuccessfully(){
+    public void Tc_06validateRegisterSuccessfully(){
         register.checkRegisterAfterCorrectPassword();
     }
     @Test
-    public void Tc_08validateSearchTags() {
+    public void Tc_07validateSearchTags() {
         search.checkSearchTags();
 
     }
     @Test
-    public void Tc_09validateSearchTags(){
+    public void Tc_08validateSearchTags(){
         search.checkEachSearchModule();
     }
 
