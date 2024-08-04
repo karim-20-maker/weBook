@@ -14,6 +14,7 @@ This repository contains code sample using selenium4 with  Maven , testNG and PO
     # repository control && pipeline configurations ===>github
     # report ===> ExtentReport , surefire report into target once running from terminal
     # Github actions for pipeline run
+    ![img.png](img.png)
     
   
   
