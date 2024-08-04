@@ -67,7 +67,7 @@ jobs:
         uses: cinotify/github-action@v1.4.0
         with:
           to: ${{ github.event.inputs.email }}
-          subject: "E2E Test Automation Report - Run ${{ github.run_number }}"
+          subject: "E2E weBook Report - Run ${{ github.run_number }}"
           body: |
             The E2E test automation run has completed. Check the attached report for details.
           attachment: src/main/sureFireReport/emailable-report.html

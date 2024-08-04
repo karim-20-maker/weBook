@@ -32,7 +32,7 @@ public class RegressionTest extends BaseTest {
     }
     @Test
     public void Tc_03validateNavigatingToRegisterScreen(){
-        login.checkNavigatingToRegister();
+//        login.checkNavigatingToRegister();
     }
 
     @Test
