@@ -50,7 +50,6 @@ public class RegressionTest extends BaseTest {
     @Test
     public void Tc_07validateSearchTags() {
         search.checkSearchTags();
-
     }
     @Test
     public void Tc_08validateSearchTags(){
