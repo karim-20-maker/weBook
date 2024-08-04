@@ -45,9 +45,7 @@ This repository contains code sample using selenium4 with  Maven , testNG and PO
      # navigate to repo then Actions screen
      # click on workflow file
      # run frommaster and insert your email to recieve report
-     # incase any test failed you will find the failure screenshoot attached to pipeline run as attached screen 
-     # ![image](https://github.com/user-attachments/assets/6c601f56-b5ee-42d5-988f-699822aff9aa)
-
+     # incase any test failed you will find the failure screenshoot attached to pipeline run as attached screen img.png
 
 
      
