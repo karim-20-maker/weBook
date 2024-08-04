@@ -28,13 +28,8 @@ This repository contains code sample using selenium4 with  Maven , testNG and PO
   # **Target** :- 
   
      # Create a  selenium4 framework to accomplish the following. 
-     # a. Open https://www.booking.com
-     # b. search for alexandria and select check in and check out dates
-     # c. click search and check tolip displayed 
-     # d. select visit from Tolip
-     # e. select number of rooms and bed type 
-     # f. validate that tolip displayed int reservation card 
-
+     # a. validate Register module
+     # b. validate search module
            
            
    # **Note** :- 
@@ -49,6 +44,7 @@ This repository contains code sample using selenium4 with  Maven , testNG and PO
      # navigate to repo then Actions screen
      # click on workflow file
      # run frommaster and insert your email to recieve report
+     # incase any test failed you will find the failure screenshoot attached to pipeline run
 
 
      
