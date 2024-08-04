@@ -13,7 +13,7 @@ This repository contains code sample using selenium4 with  Maven , testNG and PO
     # version control ===> git
     # repository control && pipeline configurations ===>github
     # report ===> ExtentReport , surefire report into target once running from terminal
-    # read data from ===> excel sheet
+   
     
   
   
