@@ -1,4 +1,4 @@
-# SeleniumBooking
+# weBook Selenium
 # **About this repository**
 This repository contains code sample using selenium4 with  Maven , testNG and POM design pattern 
 
